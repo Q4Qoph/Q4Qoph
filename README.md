@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Q4Qoph/Q4Qoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Q4Qoph 👋 
+# Hi there, I'm Fredie Obiero 👋 
 
 ### Software Engineer • Front-End Developer • Data Analyst
 
@@ -44,13 +44,13 @@ I build highly responsive, production-ready web and mobile applications while le
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Q4Qoph&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q4Qoph&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 [LinkedIn](https://linkedin.com/in/fredie-nyandiek-b94187210)
 - 🌐 [Portfolio / Technology Lab](https://techover.pro)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: your.email@nyandiekfredie@gmail.com
