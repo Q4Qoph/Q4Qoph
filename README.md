@@ -52,5 +52,5 @@ I build highly responsive, production-ready web and mobile applications while le
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/fredie-nyandiek-b94187210)
-- 🌐 [Portfolio / Technology Lab](https://techover.pro)
-- ✉️ Email: your.email@nyandiekfredie@gmail.com
+- 🌐 [Website](https://techover.pro)
+- ✉️ Email: nyandiekfredie@gmail.com
