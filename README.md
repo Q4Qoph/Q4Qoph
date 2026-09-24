@@ -1,32 +1,26 @@
+# Hi, I'm Fredie Obiero 👋
 
+### Full-Stack Software Developer | Laravel/PHP • React • .NET • Cloud Deployment
 
-<!--
-**Q4Qoph/Q4Qoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and deploy full-stack web applications, business systems, SaaS platforms, and API-driven products.
 
-Here are some ideas to get you started:
+My preferred stacks are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Laravel + PHP + MySQL** for full-stack business applications, dashboards, admin systems, and SaaS platforms.
+- **React / Next.js + .NET** for API-driven applications and separated frontend/backend architectures.
 
-# Hi there, I'm Fredie Obiero 👋 
-
-### Software Engineer • Front-End Developer • Data Analyst
-
-I build highly responsive, production-ready web and mobile applications while leveraging data analysis to solve complex problems. I'm passionate about clean architecture, performance optimization, and sleek, modern user interfaces.
+I enjoy working across the full development lifecycle — from database design and backend development to frontend implementation, API integration, deployment, and production troubleshooting.
 
 ---
 
 ## 🚀 What I Do
-- 💻 **Frontend & Mobile:** Crafting seamless user experiences using modern frameworks and optimized package management (`pnpm`).
-- 📊 **Data Analytics:** Modeling financial economics, unit economics, and building interactive dashboards.
-- ⚙️ **DevOps & Infrastructure:** Architecting automated CI/CD pipelines and deploying robust applications across cloud environments.
+
+- 🧩 **Full-Stack Development:** Build database-driven business applications, SaaS platforms, dashboards, admin systems, and internal tools.
+- ⚙️ **Backend & APIs:** Develop Laravel/PHP and .NET backends, REST APIs, authentication, authorization, and business logic.
+- 💻 **Frontend Development:** Build responsive interfaces using React, Next.js, JavaScript, TypeScript, Blade, and Tailwind CSS.
+- 🗄️ **Database Development:** Work with MySQL, PostgreSQL, MongoDB, and Firebase for application data and business workflows.
+- ☁️ **Cloud & Deployment:** Deploy and manage applications across Azure, AWS, Vercel, Railway, Cloudflare, Firebase, and Linux VPS environments.
+- 🔧 **Production & Infrastructure:** Work with domains, DNS, SSL, environment configuration, Linux servers, and application deployment.
 
 ---
 
@@ -34,10 +28,38 @@ I build highly responsive, production-ready web and mobile applications while le
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css) |
-| **Data & Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
-| **Cloud & Deployment** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel) ![Railway](https://img.shields.io/badge/-Railway-131415?style=flat-square&logo=railway) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **Environment** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Cloud & Deployment** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel) ![Railway](https://img.shields.io/badge/-Railway-131415?style=flat-square&logo=railway&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Infrastructure & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) |
+| **AI-Assisted Development** | Claude Code • OpenAI Codex • Cursor |
+
+
+## ☁️ Deployment & Infrastructure
+
+I have experience deploying and configuring applications across:
+
+- Azure App Service
+- Azure Container Apps
+- AWS EC2
+- Vercel
+- Railway
+- Cloudflare
+- Firebase services
+- Linux VPS environments, including Contabo
+
+I’m also comfortable working with environment variables, databases, DNS, SSL, server configuration, and production troubleshooting.
+
+---
+
+## 🌱 Currently Improving
+
+- Laravel architecture and advanced backend patterns
+- .NET backend development
+- Automated testing
+- CI/CD
+- Cloud deployment and production architecture
 
 ---
 
@@ -51,6 +73,8 @@ I build highly responsive, production-ready web and mobile applications while le
 ---
 
 ## 🤝 Let's Connect
+
 - 💼 [LinkedIn](https://linkedin.com/in/fredie-nyandiek-b94187210)
-- 🌐 [Website](https://techover.pro)
+- 🌐 [Portfolio](https://fredienyandiek.vercel.app/)
+- 🌐 [TechOver](https://techover.pro/)
 - ✉️ Email: nyandiekfredie@gmail.com
