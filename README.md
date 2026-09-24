@@ -53,28 +53,9 @@ I’m also comfortable working with environment variables, databases, DNS, SSL, 
 
 ---
 
-## 🌱 Currently Improving
-
-- Laravel architecture and advanced backend patterns
-- .NET backend development
-- Automated testing
-- CI/CD
-- Cloud deployment and production architecture
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Q4Qoph&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q4Qoph&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/fredie-nyandiek-b94187210)
 - 🌐 [Portfolio](https://fredienyandiek.vercel.app/)
-- 🌐 [TechOver](https://techover.pro/)
+- 🌐 [TechOver- My Workspace](https://techover.pro/)
 - ✉️ Email: nyandiekfredie@gmail.com
